@@ -10,7 +10,7 @@
   "dependencies": {
     "express": "^4.16.1"
   },
-  "devDependencies": {
+  "devDependencies": {  
     "mocha": "^5.2.0",
     "supertest": "^3.0.0"
   },
